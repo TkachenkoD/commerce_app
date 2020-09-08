@@ -13,7 +13,7 @@
 <body class=page>
   <header>
     <div id="header-inner">
-        <a href="/" id="logo">Logo New
+        <a href="/" id="logo">Logo New1
         </a>
         <nav>
           <a id="menu-icon" href=""></a>
